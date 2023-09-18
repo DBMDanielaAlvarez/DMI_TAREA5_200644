@@ -48,7 +48,7 @@
   Se muestra un video de referencia 
 </p>
 <p  align="center">
-  ![](https://github.com/Daniela06112002/DMI_TAREA6_200644/blob/main/screenshots/videoPrueba.mp4) {width='150px' height='300px'}
+  https://github.com/Daniela06112002/DMI_TAREA6_200644/blob/main/screenshots/videoPrueba.mp4
 </p>
 
 
