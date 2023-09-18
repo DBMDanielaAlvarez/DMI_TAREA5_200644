@@ -22,7 +22,7 @@
 |  Característica |  Información |
 | :------------: | :------------: |
 | Nombre  |  Tarea 6: Aplicación Stateful con Imagenes |
-| Descripción  |  En esta aplicación se esta utilizando los widgets de tipo Stateful, los cuales son aquellos que cuentan con un estado; pueden ser modificados dependiendo a como se indique en código|
+| Descripción  |  En esta aplicación se esta utilizando los widgets de tipo Stateful, los cuales son aquellos que cuentan con un estado; pueden ser modificados dependiendo a como se indique en código. En este caso, es el cambio de estado con imagenes de manera local|
 |  Fecha de Actividad  |  15 de Septiembre de 2023  |
 
 &nbsp;
@@ -44,13 +44,6 @@
   <img src="https://github.com/Daniela06112002/DMI_TAREA6_200644/blob/main/screenshots/sanji4.jpg" width="15%"/>
 </p>
 
-<p>
-  Se muestra un video de referencia 
-</p>
-
-<p  align="center">
-  https://github.com/Daniela06112002/DMI_TAREA6_200644/blob/main/screenshots/videoPrueba.mp4
-</p>
 
 
 <br>
