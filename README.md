@@ -33,16 +33,24 @@
 
 ## Salida
 <p align="justify">
-Las siguientes imagenes son la muestra de la salida de datos o el cambio de estado que muestra cada vez que se da un click al botón.
-Para los cambios de estado, se muestran un cambio tanto de imagen como de texto. En este caso, es el cambio de pesonaje de One Piece, con su nombre (los primeros 5 integrantes) y en el orden de incorporación a los Mugiwara.
+  Las siguientes imagenes son la muestra de la salida de datos o el cambio de estado que muestra cada vez que se da un click al botón.
+  Para los cambios de estado, se muestran un cambio tanto de imagen como de texto. En este caso, es el cambio de pesonaje de One Piece, con su nombre (los primeros 5 integrantes) y en el orden de incorporación a los Mugiwara.
 </p>
 <p  align="center">
-<img src="https://github.com/Daniela06112002/DMI_TAREA6_200644/blob/main/screenshots/luffy1.jpg" width="15%"/>
-<img src="https://github.com/Daniela06112002/DMI_TAREA6_200644/blob/main/screenshots/zoro2.jpg" width="15%"/>
-<img src="https://github.com/Daniela06112002/DMI_TAREA6_200644/blob/main/screenshots/nami3.jpg" width="15%"/>
-<img src="https://github.com/Daniela06112002/DMI_TAREA6_200644/blob/main/screenshots/ussop4.jpg" width="15%"/>
-<img src="https://github.com/Daniela06112002/DMI_TAREA6_200644/blob/main/screenshots/sanji4.jpg" width="15%"/>
+  <img src="https://github.com/Daniela06112002/DMI_TAREA6_200644/blob/main/screenshots/luffy1.jpg" width="15%"/>
+  <img src="https://github.com/Daniela06112002/DMI_TAREA6_200644/blob/main/screenshots/zoro2.jpg" width="15%"/>
+  <img src="https://github.com/Daniela06112002/DMI_TAREA6_200644/blob/main/screenshots/nami3.jpg" width="15%"/>
+  <img src="https://github.com/Daniela06112002/DMI_TAREA6_200644/blob/main/screenshots/ussop4.jpg" width="15%"/>
+  <img src="https://github.com/Daniela06112002/DMI_TAREA6_200644/blob/main/screenshots/sanji4.jpg" width="15%"/>
 </p>
+
+<p>
+  Se muestra un video de referencia 
+</p>
+<p  align="center">
+  ![]([ubicacion_de_la_imagen](https://github.com/Daniela06112002/DMI_TAREA6_200644/blob/main/screenshots/videoPrueba.mp4)){width=300 height=150}
+</p>
+
 
 
 
