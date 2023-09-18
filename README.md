@@ -32,18 +32,19 @@
 &nbsp;
 
 ## Salida
-
+<p align="justify">
 Las siguientes imagenes son la muestra de la salida de datos o el cambio de estado que muestra cada vez que se da un click al botón. la pantalla principal solo cuenta con un botón principal como el siguiente.
-<p align="center">
-<img src="" width="30%"/>
-</p>
+  <p align="center">
+  <img src="" width="30%"/>
+  </p>
 
-Para los cambios de estado, se muestran los siguientes datos, que se encuentran en un arreglo de datos.
-<p>
-<img src="" width="15%"/>
-<img src="" width="15%"/>
-<img src="" width="15%"/>
-<img src="" width="15%"/>
+Para los cambios de estado, se muestran un cambio de estado, tanto de imagen como de texto. En este caso, es el cambio de pesonaje de One Piece, con su nombre (los primeros 5 integrantes) y en el orden de incorporación a los Mugiwara.
+  <p>
+  <img src="" width="15%"/>
+  <img src="" width="15%"/>
+  <img src="" width="15%"/>
+  <img src="" width="15%"/>
+  </p>
 </p>
 
 
