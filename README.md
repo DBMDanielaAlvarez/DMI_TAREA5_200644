@@ -21,7 +21,7 @@
 &nbsp;
 |  Característica |  Información |
 | :------------: | :------------: |
-| Nombre  |  Tarea 6: Aplicación Stateful con Imagenes |
+| Nombre  |  Tarea 5: Aplicación Stateful con Imagenes |
 | Descripción  |  En esta aplicación se esta utilizando los widgets de tipo Stateful, los cuales son aquellos que cuentan con un estado; pueden ser modificados dependiendo a como se indique en código. En este caso, es el cambio de estado con imagenes de manera local|
 |  Fecha de Actividad  |  15 de Septiembre de 2023  |
 
@@ -37,11 +37,11 @@
   Para los cambios de estado, se muestran un cambio tanto de imagen como de texto. En este caso, es el cambio de pesonaje de One Piece, con su nombre (los primeros 5 integrantes) y en el orden de incorporación a los Mugiwara.
 </p>
 <p  align="center">
-  <img src="https://github.com/Daniela06112002/DMI_TAREA6_200644/blob/main/screenshots/luffy1.jpg" width="15%"/>
-  <img src="https://github.com/Daniela06112002/DMI_TAREA6_200644/blob/main/screenshots/zoro2.jpg" width="15%"/>
-  <img src="https://github.com/Daniela06112002/DMI_TAREA6_200644/blob/main/screenshots/nami3.jpg" width="15%"/>
-  <img src="https://github.com/Daniela06112002/DMI_TAREA6_200644/blob/main/screenshots/ussop4.jpg" width="15%"/>
-  <img src="https://github.com/Daniela06112002/DMI_TAREA6_200644/blob/main/screenshots/sanji4.jpg" width="15%"/>
+  <img src="https://github.com/Daniela06112002/DMI_TAREA5_200644/blob/main/screenshots/luffy1.jpg" width="15%"/>
+  <img src="https://github.com/Daniela06112002/DMI_TAREA5_200644/blob/main/screenshots/zoro2.jpg" width="15%"/>
+  <img src="https://github.com/Daniela06112002/DMI_TAREA5_200644/blob/main/screenshots/nami3.jpg" width="15%"/>
+  <img src="https://github.com/Daniela06112002/DMI_TAREA5_200644/blob/main/screenshots/ussop4.jpg" width="15%"/>
+  <img src="https://github.com/Daniela06112002/DMI_TAREA5_200644/blob/main/screenshots/sanji4.jpg" width="15%"/>
 </p>
 
 
